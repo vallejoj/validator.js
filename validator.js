@@ -461,6 +461,7 @@ var alpha = {
 };
 
 var alphanumeric = {
+	's': ' ',
   'en-US': /^[0-9A-Z]+$/i,
   'bg-BG': /^[0-9А-Я]+$/i,
   'cs-CZ': /^[0-9A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ]+$/i,
